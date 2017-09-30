@@ -8,10 +8,10 @@
     </feature>
     <name>MyApp</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        MyAPP is my first phonegap app.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="zia.1993.rahman@gmail.com" href="https://github.com/zia">
+        Ziaur Rahman
     </author>
     <content src="index.html" />
     <access origin="*" />
